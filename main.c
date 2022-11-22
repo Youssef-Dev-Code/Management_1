@@ -4,7 +4,7 @@ written by Youssef Azaiez
 Includes 3 header files and a C files in same dir
 ============================================
 */
-#include </home/youssef/Documents/C_Files/Projects/Project2/functions.h>
+#include </usr/App/functions.h>
 
 
 #if !defined(SIZE_BUFF)
