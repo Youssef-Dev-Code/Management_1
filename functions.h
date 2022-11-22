@@ -1,4 +1,4 @@
-#include </home/youssef/Documents/C_Files/Projects/Project2/structs.h>
+#include </usr/App/structs.h>
 
 //-------------------------------------------------------------
 /*Employee Menu*/
