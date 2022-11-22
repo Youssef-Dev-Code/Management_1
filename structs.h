@@ -1,4 +1,4 @@
-#include </home/youssef/Documents/C_Files/Projects/Project2/strFn.h>
+#include </usr/App/strFn.h>
 
 
 /*number of employees in a departement*/
